@@ -129,6 +129,7 @@ body .card .monthly-payment .sign-up-button {
 }
 
 body .card .monthly-payment .sign-up-button .button {
+  cursor: pointer;
   font-weight: 700;
   font-size: 15px;
   color: white;
@@ -139,6 +140,14 @@ body .card .monthly-payment .sign-up-button .button {
   border-radius: 5px;
   -webkit-box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
           box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
+
+body .card .monthly-payment .sign-up-button .button:hover {
+  color: #98a6bd;
+}
+
+body .card .monthly-payment .sign-up-button .button:active {
+  background-color: #d9f55c;
 }
 
 body .card .why-us {
