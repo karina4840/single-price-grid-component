@@ -46,7 +46,7 @@ The challenge is to build out this order summary card component and get it looki
 - Desktop <br>
    <img src="https://github.com/karina4840/single-price-grid-component/blob/main/results/Screenshot%202021-09-18%20at%2012.08.22%20PM.png" width=400>  
 - Active elements <br>
-   <img src="https://github.com/karina4840/single-price-grid-component/blob/main/results/Screenshot%202021-09-18%20at%2012.08.37%20PM.pngg" width=400>
+   <img src="https://github.com/karina4840/single-price-grid-component/blob/main/results/Screenshot%202021-09-18%20at%2012.08.37%20PM.png" width=400>
 
 ### Built with
 - Semantic HTML5 markup
