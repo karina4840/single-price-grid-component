@@ -7,11 +7,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://karina4840.github.io/order-summary/"> Live site </a>
+    <a href="https://karina4840.github.io/single-price-grid-component/"> Live site </a>
     <span> | </span>
-    <a href="https://www.frontendmentor.io/solutions/order-summary-html-and-sass--8omLcmBo"> Solution </a>
+    <a href="https://www.frontendmentor.io/solutions/single-price-grid-component-html-sass-grid--jTZ-Rfej"> Solution </a>
     <span> | </span>
-    <a href="https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj"> Challenge </a>
+    <a href="https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc"> Challenge </a>
     <br>
   </h3>                                                             
 </div>
